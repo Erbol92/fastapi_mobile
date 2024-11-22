@@ -1,0 +1,1 @@
+password = 'kqhr0eEnyDBuARiUnGVN'         # Ваш пароль
